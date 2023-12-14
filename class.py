@@ -1,6 +1,7 @@
 from enum import Enum
 from dataclasses import dataclass
 
+
 class Gender(Enum):
     MALE = 1
     FEMALE = 2
